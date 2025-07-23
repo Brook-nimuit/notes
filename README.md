@@ -21,4 +21,3 @@ else:
   print("no jecket needed!")
 
 
-```
